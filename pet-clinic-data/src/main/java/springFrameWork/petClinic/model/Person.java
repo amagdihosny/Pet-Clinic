@@ -1,4 +1,4 @@
-package springFramework.PetClinic.model;
+package springFrameWork.petClinic.model;
 
 public class Person {
     public String getFirstName() {
